@@ -1,6 +1,6 @@
 # Village Portal Website
 
-Selamat datang di proyek **Village Portal Website**! 🎉 Proyek ini dibangun menggunakan CodeIgniter 4, proyek ini merupakan program kerja KKN UTM 2024 di desa Banyu Urip Kabupaten Lombok Barat. Aplikasi ini memanfaatkan template dashboard **Mazer** dan **Myth-Auth** untuk fitur login dan register.
+Selamat datang di proyek **Village Portal Website**! 🎉 Proyek ini dibangun menggunakan CodeIgniter 4, proyek ini merupakan salah satu program kerja KKN UTM 2024 di desa Banyu Urip Kabupaten Lombok Barat. Aplikasi ini memanfaatkan template dashboard **Mazer** dan **Myth-Auth** untuk fitur login dan register.
 
 ## 🖥️ Screenshot
 
@@ -13,13 +13,13 @@ Selamat datang di proyek **Village Portal Website**! 🎉 Proyek ini dibangun me
 ## ✨ Fitur
 
 1. **Login Multi-User**: Superadmin, Admin, Kepala Desa/Lurah, Perangkat Desa, dan Kepala Dusun/Lingkungan.
-2. **Manage Users**: Hanya bisa diakses oleh Super Admin dan Admin.
-3. **Manage Profil Desa**: Tentang, Geografis, STOK, Aparatur, dan Kewilayahan.
-4. **Manage Informasi Desa**: Pengumuman, Layanan, Sarana/Prasarana, Dokumen Publik, dan Data Penduduk.
-5. **Manage Berita**: CRUD Data Berita.
-6. **Manage Pariwisata**: CRUD Data Pariwisata.
-7. **Manage UMKM**: CRUD Data UMKM.
-8. **Manage Situs**: Slider, Video, Kontak, dan Identitas Situs.
+2. **Kelola Users**: Hanya bisa diakses oleh Super Admin dan Admin.
+3. **Kelola Profil Desa**: Tentang, Geografis, STOK, Aparatur, dan Kewilayahan.
+4. **Kelola Informasi Desa**: Pengumuman, Layanan, Sarana/Prasarana, Dokumen Publik, dan Data Penduduk.
+5. **Kelola Berita**: CRUD Data Berita.
+6. **Kelola Pariwisata**: CRUD Data Pariwisata.
+7. **Kelola UMKM**: CRUD Data UMKM.
+8. **Kelola Situs**: Slider, Video, Kontak, dan Identitas Situs.
 
 ## 🚀 Teknologi yang Digunakan
 
