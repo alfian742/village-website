@@ -1,0 +1,91 @@
+/* General Styles */
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.form-img {
+    transition: filter 0.25s ease-in-out;
+}
+
+.form-img:hover {
+    filter: blur(1.25px);
+}
+
+.w-max-content {
+    width: max-content;
+}
+
+/* Text Clamping */
+.text-clamp-1,
+.text-clamp-2,
+.text-clamp-3 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.text-clamp-1 {
+    -webkit-line-clamp: 1;
+}
+
+.text-clamp-2 {
+    -webkit-line-clamp: 2;
+}
+
+.text-clamp-3 {
+    -webkit-line-clamp: 3;
+}
+
+/* Buttons */
+.btn-purple,
+.btn-purple:hover,
+.btn-purple:focus,
+html[data-bs-theme=dark] .btn-purple,
+html[data-bs-theme=dark] .btn-purple:hover,
+html[data-bs-theme=dark] .btn-purple:focus {
+    color: #ffffff;
+    background-color: #581c87;
+    border-color: #581c87;
+}
+
+.btn-purple:hover,
+.btn-purple:focus,
+html[data-bs-theme=dark] .btn-purple:hover,
+html[data-bs-theme=dark] .btn-purple:focus {
+    background-color: #7e22ce;
+    border-color: #7e22ce;
+}
+
+.btn-purple:focus,
+html[data-bs-theme=dark] .btn-purple:focus {
+    box-shadow: 0 0 0 0.2rem rgba(126, 34, 206, 0.5);
+}
+
+/* Toasts */
+.toast-fade-out {
+    opacity: 0;
+    transition: opacity 0.5s ease-out;
+}
+
+/* Special Colors */
+.grey,
+html[data-bs-theme=dark] .grey {
+    background-color: #6c757d;
+}
+
+.yellow,
+html[data-bs-theme=dark] .yellow {
+    background-color: #ffc107;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 1999px) {
+    .sidebar-logo {
+        margin-top: 1rem;
+    }
+}
+
+/* Miscellaneous */
+.dropdown-header::after {
+    display: none;
+}
