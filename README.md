@@ -30,12 +30,12 @@ Selamat datang di proyek **Village Portal Website**! 🎉 Proyek ini dibangun me
 
 1. **Clone Repository**:
     ```bash
-    git clone https://github.com/alfian742/village_website.git
+    git clone https://github.com/alfian742/village-website.git
     ```
 
 2. **Masuk ke Direktori Proyek**:
     ```bash
-    cd village_website
+    cd village-website
     ```
 
 3. **Update Dependensi**:
