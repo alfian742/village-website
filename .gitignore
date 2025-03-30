@@ -85,7 +85,9 @@ phpunit
 # Composer
 #-------------------------
 vendor/*
-!vendor/myth/*
+
+# Allow mythauth library to be committed
+!vendor/myth/
 
 #-------------------------
 # IDE / Development Files
