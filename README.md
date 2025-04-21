@@ -50,7 +50,7 @@ Selamat datang di proyek **Village Portal Website**! 🎉 Proyek ini dibangun me
 5. **Konfigurasi ENV**:
    - Buat database sesuai dengan konfigurasi ENV.
 
-7. **Migrate Database dan Seeder**:
+6. **Migrate Database dan Seeder**:
     ```bash
     php spark migrate
     ```
@@ -63,7 +63,7 @@ Selamat datang di proyek **Village Portal Website**! 🎉 Proyek ini dibangun me
     php spark db:seed MainSeeder
     ```
 
-8. **Jalankan Aplikasi**:
+7. **Jalankan Aplikasi**:
     ```bash
     php spark serve
     ```
@@ -91,6 +91,9 @@ Selamat datang di proyek **Village Portal Website**! 🎉 Proyek ini dibangun me
 
 2. **Konfigurasi Login (Opsional)**:
    - Konfigurasi dapat dilakukan pada direktori `vendor/myth/auth/src`.
+  
+3. **Demo**:
+   - Demo website dapat diakses melalui link berikut: [Demo](http://my-public-project.infinityfreeapp.com/village-website/public/)
 
 ---
 
